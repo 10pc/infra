@@ -1,0 +1,3 @@
+[submodule "ansibles"]
+	path = ansibles
+	url = https://github.com/10pc/ansibles.git
