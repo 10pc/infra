@@ -1,3 +1,6 @@
 [submodule "ansibles"]
 	path = ansibles
 	url = https://github.com/10pc/ansibles.git
+[submodule "dotfiles-nix"]
+	path = dotfiles-nix
+	url = https://github.com/10pc/dotfiles-nix
